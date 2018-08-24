@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"Print"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"B",
+				"BFS"
+			],
+			[
+				"cou",
+				"courses"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"E",
+				"Equals"
+			],
+			[
+				"R",
+				"RotateRight"
+			],
+			[
+				"Rih",
+				"isRightSubTree"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"get",
+				"getHeightAux"
+			],
+			[
+				"Ci",
+				"CIRCLE_H"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/tweetme/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3089,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweetme/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3089,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweetme/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3090,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweetme/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from .base import *"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kikuchanj/Desktop/Dev/tweetme",
+		"/Users/kikuchanj/Desktop/Dev/tweetme/src",
+		"/Users/kikuchanj/Desktop/Dev/tweetme/src/tweetme",
+		"/Users/kikuchanj/Desktop/Dev/tweetme/src/tweetme/settings"
+	],
+	"file_history":
+	[
+		"/Users/kikuchanj/Desktop/Dev/tweetme/src/tweetme/settings.py",
+		"/Users/kikuchanj/Desktop/app.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw1/merge.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw8/q1/Graph.h",
+		"/Users/kikuchanj/Desktop/ad2/src/main/java/edu/neu/cs5200/adminPortal/entities/Message.java",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/40cae5be82667f27f30ccb45d16f1cff/File/OnlineStore/src/main/java/edu/neu/cs5200/onlineStore/controller/HomeController.java",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/7dc5987d22a1463cde06d3ac9cbdfbbf/File/XML/websiteXml2Html.xsl",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/7dc5987d22a1463cde06d3ac9cbdfbbf/File/XML/site2website.xsl",
+		"/Users/kikuchanj/Desktop/Database/hw5/Li/Movie.java",
+		"/Users/kikuchanj/Desktop/Online-Store-Web-Application-master/src/main/java/edu/neu/cs5200/onlineStore/controller/HomeController.java",
+		"/Users/kikuchanj/Desktop/Online-Store-Web-Application-master/src/main/java/edu/neu/cs5200/onlineStore/config/SecurityConfig.java",
+		"/Users/kikuchanj/Desktop/Li/persistence.xml",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/d3157877bf4937d34f173ddb846741a1/File/sql/testDaos.sh",
+		"/Users/kikuchanj/Desktop/untitled folder/Person.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/MovieLibrary.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/Movie2Director.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/Movie2Actor.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/Movie.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/Director.sql",
+		"/Users/kikuchanj/Desktop/untitled folder/MovieLibrary",
+		"/Users/kikuchanj/Desktop/untitled folder/Actor.sql",
+		"/Users/kikuchanj/Desktop/testDaos.sh",
+		"/Users/kikuchanj/Desktop/Database/hw4/Li/question1.sh",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/d3157877bf4937d34f173ddb846741a1/File/sql/ActorService.java",
+		"/Users/kikuchanj/Desktop/FoCE/hw7/q1/Graph.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw7/q2/Graph.cc",
+		"/Users/kikuchanj/Desktop/q1/Graph.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw7/q1/main.cc",
+		"/Users/kikuchanj/Desktop/q2/main1.cc",
+		"/Users/kikuchanj/Desktop/q2/Graph.cc",
+		"/Users/kikuchanj/Desktop/q1/main.cc",
+		"/Users/kikuchanj/Desktop/q1/Graph.h",
+		"/Users/kikuchanj/Desktop/xml/q1.sh",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/40cae5be82667f27f30ccb45d16f1cff/File/site2website.xsl",
+		"/Users/kikuchanj/Desktop/xml/site.xml",
+		"/Users/kikuchanj/Desktop/xml/website.xml",
+		"/Users/kikuchanj/Desktop/xml/site2website.xml",
+		"/Users/kikuchanj/Desktop/xml/student.xml",
+		"/Users/kikuchanj/Desktop/xml/course2student.xsl.xml",
+		"/Users/kikuchanj/Desktop/xml/course.xml",
+		"/Users/kikuchanj/Desktop/q2/main.cc",
+		"/Users/kikuchanj/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/d0b19a21d243721302179ef7580d24f3/Message/MessageTemp/7dc5987d22a1463cde06d3ac9cbdfbbf/File/HashTable.cc",
+		"/Users/kikuchanj/Desktop/HashTable.cc",
+		"/Users/kikuchanj/Desktop/q2/Hashtable.h",
+		"/Users/kikuchanj/Desktop/q1/String.cc",
+		"/Users/kikuchanj/Desktop/q1/String.h",
+		"/Users/kikuchanj/Desktop/q1/Person.cc",
+		"/Users/kikuchanj/main.cc",
+		"/Users/kikuchanj/String.cc",
+		"/Users/kikuchanj/String.h",
+		"/Users/kikuchanj/Object.h",
+		"/Users/kikuchanj/Object.cc",
+		"/Users/kikuchanj/HashTable.h",
+		"/Users/kikuchanj/HashTable.cc",
+		"/Users/kikuchanj/Desktop/q1/Person.h",
+		"/Users/kikuchanj/main.c",
+		"/Users/kikuchanj/Desktop/q3/Tree.cc",
+		"/Users/kikuchanj/Desktop/q3/Tree.h",
+		"/Users/kikuchanj/Desktop/q2/Tree.cc",
+		"/Users/kikuchanj/Desktop/q2/Tree.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Shape.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Rectangle.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Rectangle.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Shape.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/main.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Heap.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q3/Heap.cc",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q1/deque.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw2/q5/Shape.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Rectangle.cc",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/rectangle/rectangle.h",
+		"/Users/kikuchanj/Desktop/ear/q1.",
+		"/Users/kikuchanj/Desktop/FoCE/hw4/q1/Vector.cpp",
+		"/Users/kikuchanj/Desktop/ear/main",
+		"/Users/kikuchanj/Desktop/ear/Object.h",
+		"/Users/kikuchanj/Desktop/ear/Integer.h",
+		"/Users/kikuchanj/.Trash/main.cc",
+		"/Users/kikuchanj/Desktop/ear/main.cc",
+		"/Users/kikuchanj/Desktop/ear/Person.h",
+		"/Users/kikuchanj/Desktop/untitled folder/Tree.cc",
+		"/Users/kikuchanj/Desktop/untitled folder/Tree.h",
+		"/Users/kikuchanj/Desktop/untitled folder/String.h",
+		"/Users/kikuchanj/Desktop/untitled folder/String.cc",
+		"/Users/kikuchanj/Desktop/untitled folder/Person.h",
+		"/Users/kikuchanj/Desktop/untitled folder/Person.cc",
+		"/Users/kikuchanj/Desktop/untitled folder/Object.h",
+		"/Users/kikuchanj/Desktop/untitled folder/main.cc",
+		"/Users/kikuchanj/Tree.cc",
+		"/Users/kikuchanj/Tree.h",
+		"/Users/kikuchanj/Person.cc",
+		"/Users/kikuchanj/Person.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q5/Heap.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q4/Heap.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q2/Heap.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q4/main.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q5/Integer.h",
+		"/Users/kikuchanj/Desktop/FoCE/hw3/q5/main.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw2/q4/main.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/hw1/q2.cpp",
+		"/Users/kikuchanj/CLionProjects/unit2/hw3_2/main.cpp",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Shape.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/main.cc",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Shape.cc",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Rectangle.h",
+		"/Users/kikuchanj/Desktop/Q3/Heap.h",
+		"/Users/kikuchanj/Desktop/Q3/Circle.cc",
+		"/Users/kikuchanj/Desktop/Q3/Circle.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Circle.cc",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Circle.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/Rec",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/circle.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/shape.cc",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/shape.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit2/rectangle.h",
+		"/Users/kikuchanj/Desktop/FoCE/unit3/iris.h",
+		"/Users/kikuchanj/Documents/workspace-sts-3.9.2.RELEASE/cs5200-spring2018-Mengqi/README.md",
+		"/Users/kikuchanj/Documents/workspace-sts-3.9.2.RELEASE/cs5200-spring2018-Mengqi/pom.xml"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/tweetme/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3089,
+								3089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/tweetme/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3089,
+								3089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2707.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/tweetme/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 762.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/tweetme/settings/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from .base import *",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tweetme.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
