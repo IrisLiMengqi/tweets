@@ -24,8 +24,10 @@ from .views import home
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$',home, name = 'home'),
-    url(r'^tweet/',include('tweets.urls')),
+    #url(r'^$',home, name = 'home'),
+    path('',home, name='home'),
+    # url(r'^tweet/',include('tweets.urls')),
+    path('tweet/', include('tweets.urls')),
 ]
 
 if settings.DEBUG:
